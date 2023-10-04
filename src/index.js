@@ -8,5 +8,3 @@ export const todoList = new TodoList();
 todoList.todos.forEach(element => {
     createTodoHTML(element);
 });
-
-console.log(todoList.todos);
