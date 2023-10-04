@@ -1,6 +1,6 @@
-# Webpack Started
+# TODO APP
 
-Este es el proyecto inicial para crear aplicaciones utilizando webpack
+Este es el proyecto es una app simple para anotar tareas en el navegador
 
 ## Nota
 
